@@ -1,0 +1,10 @@
+.container{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 1rem;
+}
+.btn1{
+    box-shadow: rgba(239, 106, 5, 0.24) 0px 3px 8px;
+}
+.btn2{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 2px 6px;
+}
